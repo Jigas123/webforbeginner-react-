@@ -1,0 +1,59 @@
+/*.App {*/
+/*  text-align: center;*/
+/*}*/
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+body .App ul{
+  width: 35%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.navbar-expand-md .navbar-nav{
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+body .App .accordion .card .card-header{
+          text-align:left !important;
+}
+body .App .accordion .card .collapse {
+  text-align: left !important;
+}
+
+.commonText{
+  text-align: center;
+}
+
+.boxPosition {
+  display: flex;
+}
+
+.mx-auto {
+  width: 70%;
+}
+
+.technoInfo {
+  text-align: justify-all;
+}
+
+.div-hover:hover {
+  background-color: #e9ecef
+}

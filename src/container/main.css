@@ -1,0 +1,10 @@
+.jumboTron {
+    background-image: url("../Assets/admin-Frontend_Development_Topics_2019.jpg");
+    height: 569px;
+    margin-bottom: 0px;
+}
+
+.getStartBtn {
+    margin-top: 21%;
+    background: #343a40;
+}
